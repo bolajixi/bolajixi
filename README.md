@@ -4,7 +4,7 @@
 
 Welcome to my profile! 😊 
 
-I'm a graduate of Covenant University, a software engineer, an open-source advocate and full-time adventure seeker. I also dabble in data structures and algorithm 💡 while working on [Django E-commerce Shop](https://github.com/bolajixi/django-commerce-shop). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/bolaji-olawale/)!
+I'm a graduate of Covenant University, a software engineer, an open-source advocate and full-time adventure seeker. I also dabble in data structures and algorithms💡, and Deep Learning while working on [Django E-commerce Shop](https://github.com/bolajixi/django-commerce-shop). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/bolaji-olawale/)!
 
 
 <!--
