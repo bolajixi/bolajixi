@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, I'm Mobolaji 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mobolaji%20Olawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bolaji-olawale/)](https://www.linkedin.com/in/bolaji-olawale/)
+
+Welcome to my profile! 😊 
+
+I'm a graduate of Covenant University, a software engineer, an open-source advocate and full-time adventure seeker. I also dabble in data structures and algorithm 💡 while working on [Django E-commerce Shop](https://github.com/bolajixi/django-commerce-shop). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/bolaji-olawale/)!
+
 
 <!--
 **bolajixi/bolajixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
